@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.homepage     = 'https://github.com/Asmod4n/ruby-ffi-passwdqc'
   gem.license      = 'Apache-2.0'
 
-  gem.name         = 'passwdqc'
+  gem.name         = 'ffi-passwdqc'
   gem.files        = Dir['README.md', 'LICENSE', 'lib/**/*']
   gem.version      = Passwdqc::VERSION
 
